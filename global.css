@@ -22,6 +22,9 @@ body {
 	margin-left:5%;
 	margin-right:5%;
 }
+.align {
+	text-align:center;
+}
 #creep {
 	background-image: url("images/freddyheaddy.svg");
 	background-repeat: no-repeat;
@@ -121,9 +124,12 @@ float: left;
 
 
 
+/* SECTION 2 CONTENT*/
 
-
-
+#grid {
+	margin-top: -120px;
+	max-width: 600px;
+}
 #section2 {
 	border-bottom: 5px solid #bb5327;
        position:relative;
@@ -163,7 +169,7 @@ p {
 
 
 
-
+/* END SECTION 2 CONTENT*/
 
 
 
@@ -192,6 +198,10 @@ p {
 
 
 @media(max-width:767px){
+	#grid {
+		margin-top: 0px;
+		max-width: 400px;
+	}
 	
 	#computer {
 		padding-bottom:20px;
@@ -208,9 +218,12 @@ p {
 		float:none;
 		position:relative;
 		width:98%;
+		margin-left:0%;
+		margin-right:0%;
 		
 	}
 	.six p {
+		padding:10px;
 		font-size:1.3em;
 	}
 	.messagecontent {
