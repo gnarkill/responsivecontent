@@ -1,0 +1,268 @@
+@charset "UTF-8";
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	margin:0px;
+}
+.img-responsive {
+	width:100%;
+	
+}
+
+.container {
+	margin-top:150px;
+	position:relative;
+	margin-left:3%;
+	margin-right:3%;
+}
+.six {
+	float:left;
+	position:relative;
+	width:40%;
+	margin-left:5%;
+	margin-right:5%;
+}
+#creep {
+	background-image: url("images/freddyheaddy.svg");
+	background-repeat: no-repeat;
+	position: absolute;
+	height: 119px;
+	width: 98px;
+	size: 100%;
+	right: 0;
+	bottom: 0;
+	background-size: cover;
+}
+#letterhead {
+	text-align:center;
+}
+#first {
+	color: #bb5327;
+	margin: 0px;
+	font-weight: 600;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .02em;
+	font-size: 4.6em;
+	
+}
+#second {
+	color: #bb5327;
+	margin: 0px;
+	font-weight: 600;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 4.21em;
+	
+}
+#bottom {
+	margin-top: -32px;
+}
+
+/*SECTION 1 CONTENT*/
+#section1 {
+       position:relative;
+       width: 100%;
+       height: 100%;
+	   background-color:#fdfadf;
+}
+
+.messagecontent {
+	margin-left: 20px;
+	margin-right: 20px;
+	position: relative;
+	z-index: 9999;
+	min-width: 400px;
+	height: 80px;
+}
+.messagecontent :first-child {
+background-image: url("images/gribbonLeft.svg");
+background-repeat: no-repeat;
+background-size: 20px 100%;
+width: 20px;
+height: 100%;
+float: left;
+padding-top: 40px;
+}
+
+.messagecontent p {
+	text-align:center;
+	padding-top: 40px;
+text-transform:uppercase;
+color:#fdfadf;
+background-image: url("images/gribbon.svg");
+background-repeat: repeat-x;
+background-size: 20px 100%;
+min-width: 300px;
+height: 100%;
+float: left;
+margin: 0;
+vertical-align: middle;
+}
+.messagecontent :last-child {
+	padding-top: 40px;
+background-image: url("images/gribbonRight.svg");
+background-repeat: no-repeat;
+background-size: 20px 100%;
+width: 20px;
+height: 100%;
+float: left;
+}
+
+
+/* END SECTION 1 CONTENT*/
+
+
+
+
+
+
+
+
+
+
+
+
+#section2 {
+       position:relative;
+       width: 100%;
+       height: 100%;
+	   background-color:coral;
+}
+
+p {
+	font-size:1.7em;
+	font-weight:400;
+	margin:0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:767px){
+	
+	#computer {
+		padding-bottom:20px;
+	max-width:93%
+}
+	#section1 {
+		padding-bottom: 100px;
+	}
+	.container {
+		margin-top:20px;
+	}
+	.six {
+		padding-top:30px;
+		float:none;
+		position:relative;
+		width:98%;
+		
+	}
+	.six p {
+		font-size:1.3em;
+	}
+	.messagecontent {
+		margin-left: 0px;
+		margin-right: 0px;
+		position: relative;
+		z-index: 9999;
+		min-width: 1px;
+		height: 80px;
+	}
+	.messagecontent p {
+		padding-left:2%;
+		font-size:1.6em;
+		text-align:left;
+		padding-top: 40px;
+	text-transform:uppercase;
+	color:#fdfadf;
+	background-image: url("images/gribbon.svg");
+	background-repeat: repeat-x;
+	background-size: 20px 100%;
+	min-width: 200px;
+	height: 100%;
+	float: left;
+	margin: 0;
+	vertical-align: middle;
+	}
+	
+	#first {
+		color: #bb5327;
+		margin: 0px;
+		font-weight: 600;
+		text-align: center;
+		text-transform: uppercase;
+		letter-spacing: .02em;
+		font-size: 3.1em;
+	
+	}
+	#second {
+		color: #bb5327;
+		margin: 0px;
+		font-weight: 600;
+		text-align: center;
+		text-transform: uppercase;
+		font-size: 2.9em;
+	
+	}
+	#bottom {
+		margin-top:-20px;
+	}
+	
+}
+
+	
+@media(min-width:768px){
+	html {
+		height:100%;
+		width:100%;
+	
+	}
+	body {
+		margin:0px;
+		width:100%;
+		height:100%;
+	}
+
+	#wrap {
+	
+		height:100%;
+		width:100%;
+	}
+	.section {
+		height:100%;
+		width:100%;
+   
+	
+	}
+}
+@media(min-width:992px){}
+@media(min-width:1200px){}

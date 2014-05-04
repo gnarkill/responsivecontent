@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="38.2px" height="132px" viewBox="0 0 38.2 132" enable-background="new 0 0 38.2 132" xml:space="preserve">
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="38.2" height="132"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  overflow="visible"/>
+	</clipPath>
+	<g clip-path="url(#SVGID_2_)">
+		<polygon opacity="0.8" fill="#004242" points="591.9,132 -63.5,132 -41.324,66 -63.5,0 591.9,0 569.725,66 		"/>
+		<g>
+			<g>
+				<polyline fill="none" stroke="#FEFBDF" stroke-width="2" stroke-miterlimit="10" points="-52.1,125.4 -53.837,125.4 
+					-53.284,123.754 				"/>
+				<polyline fill="none" stroke="#FEFBDF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.4606,3.4606" points="
+					-52.182,120.475 -33.995,66.348 -52.732,10.582 				"/>
+				<polyline fill="none" stroke="#FEFBDF" stroke-width="2" stroke-miterlimit="10" points="-53.284,8.941 -53.837,7.295 
+					-52.1,7.295 				"/>
+				
+					<line fill="none" stroke="#FEFBDF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3,3" x1="-48.8" y1="7" x2="579.2" y2="7"/>
+				<polyline fill="none" stroke="#FEFBDF" stroke-width="2" stroke-miterlimit="10" points="580.501,7.295 582.237,7.295 
+					581.685,8.941 				"/>
+				<polyline fill="none" stroke="#FEFBDF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3.4606,3.4606" points="
+					580.582,12.222 562.396,66.348 581.133,122.114 				"/>
+				<polyline fill="none" stroke="#FEFBDF" stroke-width="2" stroke-miterlimit="10" points="581.685,123.754 582.237,125.4 
+					580.501,125.4 				"/>
+				
+					<line fill="none" stroke="#FEFBDF" stroke-width="2" stroke-miterlimit="10" stroke-dasharray="3,3" x1="577.2" y1="125" x2="-50.8" y2="125"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
