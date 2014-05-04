@@ -140,6 +140,17 @@ body {
        height: 100%;
 	   background-color:#fdfadf;
 }
+.middle {
+	padding-top:40px;
+	width:100%;
+	margin-right:auto;
+	margin-left:auto;
+	text-align:center;
+}
+#boots {
+	max-width: 370px;
+	
+}
 
 .messagecontent {
 	margin-left: 20px;
@@ -333,8 +344,15 @@ p {
 
 
 
-
-
+a:link {
+	text-decoration:none;
+	
+	
+}
+.link {
+	
+	color:#bb5327;
+}
 
 
 
@@ -345,7 +363,8 @@ p {
 
 @media(max-width:767px){
 	.three {
-		
+		padding-top:30px;
+		float:none;
 		width:98%;
 		
 	}
