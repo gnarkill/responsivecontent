@@ -61,6 +61,7 @@ body {
 
 /*SECTION 1 CONTENT*/
 #section1 {
+	border-bottom: 5px solid #bb5327;
        position:relative;
        width: 100%;
        height: 100%;
@@ -124,10 +125,33 @@ float: left;
 
 
 #section2 {
+	border-bottom: 5px solid #bb5327;
        position:relative;
        width: 100%;
        height: 100%;
-	   background-color:coral;
+	   background-color:#fdfadf;
+}
+#first2 {
+	color: #bb5327;
+	margin: 0px;
+	font-weight: 600;
+	text-align: center;
+	text-transform: uppercase;
+	letter-spacing: .02em;
+	font-size: 4.3em;
+	
+}
+#second2 {
+	color: #bb5327;
+	margin: 0px;
+	font-weight: 600;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 4.21em;
+	
+}
+#bottom2 {
+	margin-top: -32px;
 }
 
 p {
@@ -224,6 +248,12 @@ p {
 		font-size: 3.1em;
 	
 	}
+	#first2 {
+		font-size:2.2em;
+	}
+	#second2 {
+		font-size:2.2em;
+	}
 	#second {
 		color: #bb5327;
 		margin: 0px;
@@ -235,6 +265,9 @@ p {
 	}
 	#bottom {
 		margin-top:-20px;
+	}
+	#bottom2 {
+		margin-top:-16px;
 	}
 	
 }
